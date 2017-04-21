@@ -1,0 +1,8 @@
+Pitch:
+Stardew Valley clone played in a browser.
+
+Tech:
+Javescript
+Phaser
+
+
