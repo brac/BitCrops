@@ -5,4 +5,16 @@ Tech:
 Javescript
 Phaser
 
+Imagery:
+2D, top down bitmapped based
+
+Basic Gameplay:
+Moving PC to different points and interacting. For example:
+Move to field, plant seends
+Move to town, converse with NPCs
+Move to store, buy items
+Move to home, sleep
+Move to field, harvest
+Move to seller, profit
+
 
